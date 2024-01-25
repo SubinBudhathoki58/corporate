@@ -5,7 +5,7 @@ import './App.css';
 import AppAbout from './Components/about';
 import AppServices from './Components/AppServices';
 import AppWorks from './Components/works';
-import AppTeam from './Components/team';
+import AppTeams from './Components/team';
 
 function App() {
   return (
@@ -18,7 +18,7 @@ function App() {
         <AppAbout/>
         <AppServices/>
         <AppWorks/>
-        <AppTeam/>
+        <AppTeams/>
       </main>
      
      
