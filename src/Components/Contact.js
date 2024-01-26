@@ -59,6 +59,15 @@ export default function AppContact() {
             <ul>
                <li>
                <i class="fas fa-envelope"></i>
+               hihello@gmail.com
+               </li>
+               <li>
+               <i class="fas fa-phone"></i>
+               xxxxxxxxxx
+               </li>
+               <li>
+               <i class="fas fa-map-marker-alt"></i>
+               Bhadrpur, Nepal
                </li>
             </ul>
         </div>
